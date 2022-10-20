@@ -1,2 +1,2 @@
-# dasar
-Dasar Github dan Git
+# Random
+--- RANDOM ---
